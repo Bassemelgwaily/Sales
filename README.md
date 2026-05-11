@@ -34,4 +34,4 @@ The report consists of three main analytical perspectives:
 ## 👤 Author
 **Bassem Mohamed Elgwaily**
 Junior Data Analyst | Faculty of Science Graduate
-[LinkedIn Profile] | [Portfolio Link]
+[www.linkedin.com/in/bassem-elgwaily-908863211]
